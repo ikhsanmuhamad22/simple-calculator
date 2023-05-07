@@ -60,3 +60,9 @@ body {
     border-radius: 10px;
     padding: 30px;
 }
+
+@media (max-width: 700px) {
+    body {
+        flex-direction: column;
+    }
+}
