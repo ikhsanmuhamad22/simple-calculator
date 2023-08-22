@@ -1,4 +1,4 @@
 # simple-calculator
-biar greget saya buat semirip mungkin sama yang di contoh
+simple kalkulator with valnila html css and js
 
 https://dapper-sprinkles-927329.netlify.app/
